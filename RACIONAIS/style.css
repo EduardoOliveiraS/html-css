@@ -14,7 +14,9 @@
 body{
     background-color: var(--cor-pagina);
 }
-
+article{
+    padding:30px;
+}
 main{
     margin: 30px auto;
     background-color: var(--cor-fundo);
